@@ -1,0 +1,16 @@
+{
+  "name": "reactflix",
+  "version": "1.0.0",
+  "description": "Uma página de vídeos de react que mais gosto.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
